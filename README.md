@@ -1,8 +1,8 @@
 # File Deep Info: Professional File Deep Analysis & Security Audit Forensics Inspector
-Uncover hidden data, verify real file formats &amp; extract embedded objects. Go beyond what Finder shows you — uncover hidden data, verify true file formats, extract embedded objects, and audit metadata.
+Uncover hidden data, verify real file formats &amp; extract embedded objects, and audit metadata.
 
-### [Download on Mac App Store](https://apps.apple.com/cn/app/file-deep-info-hidden-data/id6759220338)
-### [File Deep Info Official Website, Features, FAQ](https://filedeep.info)
+#### [Download on Mac App Store](https://apps.apple.com/cn/app/file-deep-info-hidden-data/id6759220338)
+#### [File Deep Info Official Website, Features, FAQ](https://filedeep.info)
 
 > File Deep Info is a professional-grade file forensics and deep inspection tool for macOS. Go beyond what Finder shows you — uncover hidden data, verify true file formats, extract embedded objects, and audit metadata with surgical precision.
 > 
